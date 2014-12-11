@@ -1,4 +1,4 @@
 krazy_jumper
 ============
 
-hackathon game
+2014 McGill Hacks Submission
